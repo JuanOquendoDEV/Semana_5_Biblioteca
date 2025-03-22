@@ -1,11 +1,7 @@
-package com;
+package com.example;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import com.example.Libro;
-import com.example.Prestamo;
-import com.example.Usuario;
 
 public class Biblioteca {
 
